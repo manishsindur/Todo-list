@@ -32,7 +32,7 @@ window.addEventListener("load", () => {
 		listItems.style.padding = "20px";
 		// Icons
 		const icons = document.createElement("img");
-		icons.src = "/Images/done.svg";
+		icons.src = "Images/done.svg";
 		icons.style.width = "30px";
 		icons.style.height = "30px";
 		listItems.appendChild(icons);
