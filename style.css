@@ -53,6 +53,13 @@ body {
 			}
 		}
 		& #main-second-container {
+			& #todo-task-numbers {
+				margin-top: 16px;
+				h2 {
+					color: white;
+					font-size: 18px;
+				}
+			}
 			& ul {
 				list-style: none;
 			}
