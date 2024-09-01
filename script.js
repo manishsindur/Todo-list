@@ -30,7 +30,7 @@ window.addEventListener("load", () => {
 		listItems.style.justifyContent = "space-between";
 		listItems.style.alignItems = "center";
 		listItems.style.padding = "20px";
-		// Icons
+
 		const icons = document.createElement("img");
 		icons.src = "Images/done.svg";
 		icons.style.width = "30px";
