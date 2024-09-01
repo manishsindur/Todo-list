@@ -36,6 +36,7 @@ window.addEventListener("load", () => {
 		icons.style.width = "30px";
 		icons.style.height = "30px";
 		listItems.appendChild(icons);
+
 		todoList.appendChild(listItems);
 	});
 });
